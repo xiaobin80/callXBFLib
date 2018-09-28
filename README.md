@@ -1,7 +1,7 @@
 # callXBFLib
 Calling the XBF Library(xbfInfo.dll). 
 
-IDE：VS2005    
+IDE：VS2010    
 
 Lang：C Sharp    
 
